@@ -1,2 +1,3 @@
-# hello-world
-just another repository
+Hi Humans! 
+
+Just checking out coding for the first time :) fingers crossed it all goes well!
